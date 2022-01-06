@@ -1,5 +1,8 @@
 # Association Rule Learning Recommender System (Birliktelik Kuralları Öğrenimli Tavsiye Sistemi)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/celalakcelikk/arl_recommender/main/media/arl.png" alt="arl"/>
+<p>
+  
 ## İş Problemi
 Sepet aşamasındaki kullanıcılara ürün önerisinde bulunmak.
 
